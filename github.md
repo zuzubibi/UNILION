@@ -21,8 +21,9 @@ github에서 저장소 생성 후 저장소 주소를 remote에 입력(git remot
 
 ### 해결방법
 아래와 같이 git pull 시에 –allow-unrelated-histories 옵션 추가하여 관련 없었던 두 저장소를 병합하도록 허용<br>
+```
 $ git pull origin master --allow-unrelated-histories
-
+```
 ----------------------------------------------------------------------
 ## GitHub을 이용한 협업
 
