@@ -50,7 +50,33 @@ $ git pull origin master --allow-unrelated-histories
 ## Fork를 이용한 협업
 
 1. 작업하고 싶은 Repositroy fork 해오기
+```
+바탕화면에 새로 생성한 파일 fork
+
+$ cd for
+$ git clone ('git-address')
+```
+<br>
+
 2. 자신의 로컬에서 작업
+```
+$ ls      // 내용 확인 (Spoon-Knife폴더가 있다고 가정하자)
+$ code .  // visual code로 들어갈 수 있음 (수정작업을 하면 됨)
+$ cd Spoon-Knife
+$ git status 
+$ git add.
+$ git commit -m "id change"
+```
+<br>
+
 3. 변경사항을 자신의 브랜치에 push
+```
+$ git checkout -b subeen     // 브랜치를 새로 만들기 + 브랜치 전환
+$ git push origin subeen
+
+```
+<br>
+
 4. 원본 레포지토리 소유자에게 Pull request 요청
 5. 소유자가 Pull request를 승인하여 merge하면 자동으로 Collaborator 추가
+
