@@ -11,7 +11,7 @@
 * git banch (branchname) : 새로운 브런치 생성<br>
 * git checkout (branchname) : 해당 브런치로 이동<br>
 * git pull origin (branch) : 원격 저장소의 특정 브랜치에서 변경사항 pull<br>
-
+<br><br>
 ## git pull명령 후 non-fast-forward 문제 해결방법
 ### 현상
 github에서 저장소 생성 후 저장소 주소를 remote에 입력(git remote add origin https://github…..)했고, 로컬에서도 정상적으로 초기화(git init)했는데도 git pull 또는 git merge 명령이 동작하지 않고 git push origin master시 [rejected] master -> master (non-fast-forward) 에러가 발생하는 경우
@@ -25,6 +25,7 @@ github에서 저장소 생성 후 저장소 주소를 remote에 입력(git remot
 $ git pull origin master --allow-unrelated-histories
 ```
 ----------------------------------------------------------------------
+<br>
 ## GitHub을 이용한 협업
 
 1. 원격 저장소 생성
@@ -34,7 +35,7 @@ $ git pull origin master --allow-unrelated-histories
 5. 팀원 각자의 브랜치를 생성하여 작업
 6. Master와 merge 하기 전 Pull request
 7. Pull request 확인 후 Master와 merge
-
+<br>
 ## Fork를 이용한 협업
 
 1. 작업하고 싶은 Repositroy fork 해오기
