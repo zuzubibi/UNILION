@@ -56,8 +56,6 @@ $ git pull origin master --allow-unrelated-histories
 $ cd for
 $ git clone ('git-address')
 ```
-<br>
-
 2. 자신의 로컬에서 작업
 ```
 $ ls      // 내용 확인 (Spoon-Knife폴더가 있다고 가정하자)
@@ -67,15 +65,12 @@ $ git status
 $ git add.
 $ git commit -m "id change"
 ```
-<br>
 
 3. 변경사항을 자신의 브랜치에 push
 ```
 $ git checkout -b subeen     // 브랜치를 새로 만들기 + 브랜치 전환
 $ git push origin subeen
-
 ```
-<br>
 
 4. 원본 레포지토리 소유자에게 Pull request 요청
 5. 소유자가 Pull request를 승인하여 merge하면 자동으로 Collaborator 추가
