@@ -1,2 +1,3 @@
-# UNILION
-유니 라이언 강의 모음
+# Like Lion 8th Session
+
+0. [GIT](github.md)
