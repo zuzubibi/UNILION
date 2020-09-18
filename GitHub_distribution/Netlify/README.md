@@ -2,12 +2,12 @@
 
 ## 정적 페이지와 동적페이지
 
-01. 정적 페이지(Static page)
+🤍 정적 페이지(Static page)<br>
 시간의 흐름과 사용자의 요청에 상관없이 변화하지 않는 페이지<br>
   -> html, css, js, img
 <br>
 
-02. 동적 페이지(Dynamic page) 
+🤍 동적 페이지(Dynamic page)<br>
 시간의 흐름과 사용자의 요청에 변화하는 페이지<br
   -> 앞단의 html, css, js와 뒷단에서 기능 구현하는 django, DB가 상호작용하면서 달라진다.
 
