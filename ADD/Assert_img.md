@@ -7,11 +7,11 @@ git폴더에 이미지를 넣을 image폴더를 만들어주세요!<br>
 ```
 # ![이미지이름](./이미지가 있는 폴더/ 이미지이름. 형식)가 핵심입니다!
 
-![CreatePlan](./image/CreatePlan.jpeg) <br>
+![CreatePlan](./image/CreatePlan.jpeg)
  간단하게 계획과 데드라인을 정할 수 있으며, 메모를 남길 수 있습니다.
-<br>
-![DetailPlan](./image/DetailPlan.jpeg)<br>
- 메모는 URL링크를 인식하며 DetailView에서 바로 웹페이지를 갈 수 있습니다.<br> 
+
+![DetailPlan](./image/DetailPlan.jpeg)
+ 메모는 URL링크를 인식하며 DetailView에서 바로 웹페이지를 갈 수 있습니다.
 
 ![Random](./image/Random.jpeg)
 
