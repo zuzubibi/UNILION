@@ -1,6 +1,6 @@
 # Like Lion 8th Session
 ## 👩‍💻중앙 세션
-0. [GITHUB 배포](github.md)
+0. [GITHUB 배포](GitHub_distribution/github.md)
 1. 마스크알림이
 2. 드리머리
 3. 자소설 닷컴

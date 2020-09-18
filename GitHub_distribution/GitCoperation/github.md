@@ -11,6 +11,8 @@
 * git banch (branchname) : 새로운 브런치 생성<br>
 * git checkout (branchname) : 해당 브런치로 이동<br>
 * git pull origin (branch) : 원격 저장소의 특정 브랜치에서 변경사항 pull<br>
+* git clone http://원격 저장소 주소.git : 원격 저장소에 있는 파일 전체 복사 (pull할 때 사용)<br>
+* git status : git 저장소의 상태 확인<br>
 <br>
 
 ## git add.와 git commit을 동시에하는 방법 
