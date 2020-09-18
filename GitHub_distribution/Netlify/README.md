@@ -13,8 +13,10 @@
 
 # Netlify 배포과정
 
-* hosting이란 내 코드를 서버에 올려서 internet에 접근할 수 있게하는 것<br>
 ![CreatePhoto](./img/1.png)<br><br>
+* hosting이란 내 코드를 서버에 올려서 internet에 접근할 수 있게하는 것<br>
+![CreatePhoto](./img/3.png)<br><br><br>
+![CreatePhoto](./img/2.png)<br><br><br>
 자기소개 page나 이력서 page를 AWS를 통해 배포할 필요없이 github에 올려서 Netlify로 배포할 수 있습니다<br>
 그리고 url을 보내서 친구들에게 자랑할 수 있지요 ^^<br>
 하지만 Netlify는 정적 페이지만 배포할 수 있기 때문에 한계가 있습니다.<br>
