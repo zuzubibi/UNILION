@@ -15,5 +15,5 @@
 
 * hosting이란 내 코드를 서버에 올려서 internet에 접근할 수 있게하는 것
 
-<br><p align = "center"><img src="/img/1.PNG" width ="800px"></p><br>
+<br><p align = "center"><img src="/img/1.png" width ="800px"></p><br>
 
