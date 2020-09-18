@@ -14,7 +14,7 @@
 <br>
 
 ## git add.와 git commit을 동시에하는 방법 
-<br>
+
 ```
 $ git commit -am ("info")  
 ```
