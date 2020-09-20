@@ -13,7 +13,7 @@
 
 # Netlify 배포과정
 
-![CreatePhoto](./img/1.png)<br><br>
+![CreatePhoto](./img/1.png)
 * hosting이란 내 코드를 서버에 올려서 internet에 접근할 수 있게하는 것<br><br>
 
 ![](./img/2.png)<br><br><br>
