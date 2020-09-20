@@ -127,8 +127,5 @@ PATH는 수정한 것을 input했을 때 print값엔 원본의 값이 수정이 
 ![](img/10.png)<br>
 PUT은 수정한 것을 input했을 때 print값엔 원본과 상관없이 PUT에서 받은 것만이 넘어온다. 그리고 id는 컴퓨터가 알아서 만들어 주고 있다.
 
-
-
-## OPEN API
-
-## 공적마스크 API 살펴보기
+<!-- ## OPEN API
+## 공적마스크 API 살펴보기 -->
